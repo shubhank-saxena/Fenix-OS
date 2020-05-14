@@ -1,5 +1,5 @@
 # Fenix-OS
-This repository contains codebase of a minimal Operating System that I am planning to create in Summer of 2020
+### This repository contains codebase of a minimal Operating System that I am planning to create in Summer of 2020
 
 A great cheers to [Write your own OS](https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=1) for putting up such an amazing Youtube Playlist.
 
