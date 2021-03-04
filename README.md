@@ -1,7 +1,7 @@
 # Fenix-OS
 <div align ="center">
   
-### This repository contains codebase of a minimal Operating System that I am planning to create in Summer of 2020
+### This repository contains codebase of a minimal Operating System that I am planning to create in Summer of 2021
 
 </div>
 
